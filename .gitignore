@@ -1,0 +1,11 @@
+.devcontainer
+.Xauthority
+.bash_history
+.cache/
+.gitconfig
+.local/
+.nedit/
+.selected_editor
+.ssh/
+.vim*
+tmp/
